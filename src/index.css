@@ -10,3 +10,15 @@ body {
   background: linear-gradient(180deg, #0047B8, #022181);
   color: white;
 }
+
+button {
+  padding: 0 50px;
+  height: 45px;
+  border: 3px solid white;
+  border-radius: 25px;
+  background: #0047B8;
+  color: white;
+  text-transform: uppercase;  
+  font-weight: bold;
+  font-size: 17px;
+}

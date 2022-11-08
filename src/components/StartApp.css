@@ -1,0 +1,11 @@
+.Start h1 {
+    font-size: 48px;
+    text-transform: capitalize;
+    margin-bottom: 45px;
+    margin-top: 55px;
+}
+
+.Start p {
+    color: yellow;
+    margin-bottom: 45px;
+}
